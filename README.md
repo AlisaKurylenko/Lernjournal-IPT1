@@ -33,15 +33,10 @@
 | `>` | Formatiert den Text als Zitat (Blockquote). |
 | `[Titel](URL)` | Erstellt einen klickbaren Link. |
 | `![Alt-Text](URL)` | Bindet ein Bild ein. |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-
-\Apfel``
-\`` Apfel ```
-- Apfel
-* Apfel
-1. Apfel / 2. Banane
+| `-` oder `*` | Erstellt einen Aufzählungspunkt (Liste). |
+| `1.` / `2.` | Erstellt eine nummerierte Liste. |
+| ``...`` | Formatiert den Text als Inline-Code |
+| `````...````` | Erstellt einen mehrzeiligen Code-Block. |
+| `|  |  |` | Erstellt eine Tabelle |
+| `[ ] / [x]` | Erstellt eine interaktive Checkbox (Aufgabenliste). |
+| `<br>` | Erzwingt einen einfachen Zeilenumbruch. |
