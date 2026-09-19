@@ -46,7 +46,9 @@
 
 * **Git** - ein lokales, verteiltes Versionsverwaltungssystem (VCS). Es verfolgt Code-Änderungen offline, speichert die Projekthistorie in Commits und ermöglicht das Arbeiten mit Branches.
 * **GitHub** - eine cloudbasierte Hosting-Plattform für Git-Repositories. Sie bietet eine Weboberfläche und Tools für die Teamarbeit (z. B. Pull Requests, Issues, CI/CD).
+  
 **Vergleich: Git vs. GitHub**
+  
 | Kriterium | Git | GitHub |
 |---|---|
 | Typ | Software (VCS) | Cloud-Dienst / Plattform |
