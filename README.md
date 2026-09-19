@@ -27,12 +27,12 @@
 |---|---|
 | `# / ## / ###` | Erstellt eine Überschrift (Ebene 1, 2 oder 3). |
 | `**text**` | Macht den Text fett. |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
-| ` ` |  |
+| `*text*` oder `_text_` | Macht den Text kursiv. |
+| `~~text~~` | Durschstreicht den Text. |
+| `---` | Fügt eine horizontale Trennlinie ein. |
+| `>` | Formatiert den Text als Zitat (Blockquote). |
+| `[Titel](URL)` | Erstellt einen klickbaren Link. |
+| `![Alt-Text](URL)` | Bindet ein Bild ein. |
 | ` ` |  |
 | ` ` |  |
 | ` ` |  |
