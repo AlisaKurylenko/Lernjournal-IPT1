@@ -1,2 +1,20 @@
 # Lernjournal-IPT1
 > **Git, GitHub, Markdown**
+
+---
+
+### Befehle GitHub
+
+| Befehl | Aufgabe |
+|---|---|
+| `git status` | Zeigt den aktuellen Zustand des Repositories und geänderte Dateien an. |
+| `git add` | Wählt bearbeitete Dateien für den nächsten Speicherpunkt aus. |
+| `git branch` | Erstellt einen neuen Branch. |
+| `git log` | Zeigt die Liste aller bisherigen Speicherungen an. |
+| `git clone` | Lädt ein Repository von GitHub herunter, um lokal damit zu arbeiten. |
+| `git commit -m "..."` | Speichert die ausgewählten Dateien lokal mit einer kurzen Nachricht. |
+| `git push` | Lädt gespeicherte Commits auf GitHub hoch. |
+| `git pull` | Aktualisiert das lokale Projekt mit neuen Änderungen von GitHub. |
+| `git merge` | Verbindet die Änderungen aus einem Branch mit dem Hauptzweig. |
+| `git checkout` | Wechselt zwischen verschiedenen Bereichen (Branches). |
+| `git init` | Erstellt ein neues Git-Repository in einem vorhandenen Ordner. |
