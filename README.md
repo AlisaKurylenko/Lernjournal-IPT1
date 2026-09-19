@@ -56,3 +56,15 @@
 | Internet | Offline nutzbar | Internet erforderlich |
 | Interface | Befehlszeile (CLI) | Weboberfläche (GUI) |
 | Fokus | Code-Versionierung | Teamarbeit & Projektmanagement |
+
+* **Repository** - der Speicherort eines Projekts, der alle Dateien, Ordner und die gesamte Git-Historie enthält.
+* **Branch** - eine Arbeitskopie des Projekts, um neue Features oder Fixes unabhängig vom Hauptcode zu entwickeln.
+* **`main`-Branch** - die Hauptversion des Projekts, in die alle geprüften Änderungen zusammengeführt werden.
+* **Markdown** - eine einfache Textformatierungssprache, mit der man Texte mit Symbolen (wie # oder *) strukturiert, um Dokumentationen wie die README.md schnell und leicht lesbar zu gestalten.
+* **GitHub-Flavored Markdown (GFM)** - eine von GitHub erweiterte Version von Markdown, die zusätzliche Funktionen wie Tabellen, Tasklisten und die Verlinkung von Issues bietet.
+*  **Issue** - eine strukturierte Aufgaben- oder Problemmeldung im Projekt-Repository, die alle relevanten Informationen, Diskussionen und den aktuellen Status eines Tasks zusammenfasst, damit Anpassungen am Projekt nachvollziehbar bearbeitet werden können.
+* **Commit** - eine gespeicherte Code-Änderung, die einen konkreten Entwicklungsstand im Repository sicher festhält und über eine eindeutige ID nachvollziehbar macht.
+* **Commit-Nachricht** - ein erklärender Text zu einem Commit.
+* **Pull Request** - eine Anfrage, die Commits aus einem Arbeits-Branch nach einer Überprüfung im Team (Code Review) in einen anderen Branch (wie main) zusammenzuführen (mergen).
+* **Review** - die systematische Prüfung von Code-Änderungen durch andere Teammitglieder, um Fehler frühzeitig zu erkennen und eine hohe Code-Qualität sicherzustellen.
+* **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
