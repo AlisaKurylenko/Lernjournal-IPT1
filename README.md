@@ -39,3 +39,8 @@
 | ` ```...``` ` | Erstellt einen mehrzeiligen Code-Block. |
 | `[ ] / [x]` | Erstellt eine interaktive Checkbox (Aufgabenliste). |
 | `<br>` | Erzwingt einen einfachen Zeilenumbruch. |
+
+---
+
+## Begriffe Git und GitHub
+
