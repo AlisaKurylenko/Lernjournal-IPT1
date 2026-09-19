@@ -50,7 +50,7 @@
 **Vergleich: Git vs. GitHub**
   
 | Kriterium | Git | GitHub |
-|---|---|
+| --- | --- | --- |
 | Typ | Software (VCS) | Cloud-Dienst / Plattform |
 | Ort | Lokal (auf dem PC) | Online (Cloud-Server) |
 | Internet | Offline nutzbar | Internet erforderlich |
