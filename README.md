@@ -3,7 +3,7 @@
 
 ---
 
-### Befehle GitHub
+## Befehle GitHub
 
 | Befehl | Aufgabe |
 |---|---|
@@ -18,3 +18,11 @@
 | `git merge` | Verbindet die Änderungen aus einem Branch mit dem Hauptzweig. |
 | `git checkout` | Wechselt zwischen verschiedenen Bereichen (Branches). |
 | `git init` | Erstellt ein neues Git-Repository in einem vorhandenen Ordner. |
+
+---
+
+## Markdown
+
+| Syntax | Wirkung auf den Text |
+|---|---|
+| `# / ## / ###` | Erstellt eine Überschrift (Ebene 1, 2 oder 3). |
