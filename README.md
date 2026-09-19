@@ -26,3 +26,16 @@
 | Syntax | Wirkung auf den Text |
 |---|---|
 | `# / ## / ###` | Erstellt eine Überschrift (Ebene 1, 2 oder 3). |
+| `**text**` | Macht den Text fett. |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
+| ` ` |  |
