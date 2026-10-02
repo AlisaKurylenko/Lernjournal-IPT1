@@ -39,7 +39,7 @@
 | ` ```...``` ` | Erstellt einen mehrzeiligen Code-Block. |
 | `[ ] / [x]` | Erstellt eine interaktive Checkbox (Aufgabenliste). |
 | `<br>` | Erzwingt einen einfachen Zeilenumbruch. |
-| `\|...|...|` | Mit dem macht man die Tabelle |
+| `\|` | Mit dem macht man die Tabelle |
 
 ---
 
