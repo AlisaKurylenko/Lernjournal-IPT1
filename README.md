@@ -73,3 +73,8 @@
 * **Pull Request** - eine Anfrage, die Commits aus einem Arbeits-Branch nach einer Überprüfung im Team (Code Review) in einen anderen Branch (wie main) zusammenzuführen (mergen).
 * **Review** - die systematische Prüfung von Code-Änderungen durch andere Teammitglieder, um Fehler frühzeitig zu erkennen und eine hohe Code-Qualität sicherzustellen.
 * **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
+
+---
+##Learnsession 4
+
+[Dokument: Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
