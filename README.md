@@ -1,12 +1,10 @@
 # Lernjournal-IPT1
 
----
-
 ## Lernsession 1-3
 
 > **Git, GitHub, Markdown**
 
-
+---
 ### Befehle GitHub
 
 | Befehl | Aufgabe |
@@ -79,6 +77,8 @@
 
 > Vom Problem zur Lösung
 
+---
+
 ### EVA - Modell
 
 Eingabe – Verarbeitung – Ausgabe
@@ -89,5 +89,14 @@ Eingabe – Verarbeitung – Ausgabe
 
 ### Wichtige Begriffe
 
+* Problem: Beschreibt den aktuellen, fehlerhaften oder schwierigen Zustand, der verbessert werden soll.
+* Ziel: Beschreibt den gewünschten Endergebnis- oder Wunschzustand, der erreicht werden soll.
+* Lösung: Beschreibt die konkreten technischen Schritte oder Umsetzungen, wie dieses Ziel erreicht werden soll
 
-[Dokument: Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
+* Problemstatement: Eine klare, lösungsneutrale Beschreibung des aktuellen Problems oder Fehlers.
+* Zielbild: Ein überprüfbares Ziel, das beschreibt, wie der gewünschte Zustand nach der Lösung aussehen soll.
+* Funktionale Anforderung: Eine konkrete Beschreibung dessen, was das Programm leisten oder können muss.
+* Akzeptanzkriterium: Eine klare Bedingung oder Testregel, mit der eine fremde Person eindeutig entscheiden kann (erfüllt oder nicht erfüllt), ob eine Anforderung erfolgreich umgesetzt wurde.
+  
+## Dokumente
+[Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
