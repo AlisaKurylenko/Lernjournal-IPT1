@@ -79,24 +79,37 @@
 
 ---
 
+## Wie man das Problem löst?
+
+1. **Problem & Ziel definieren:** Das aktuelle Problem und das gewünschte Ziel neutral beschreiben.   
+2. **Anforderungen festlegen:** Bestimmen, was das Programm leisten muss (Eingabe, Verarbeitung, Ausgabe).   
+3. **Akzeptanzkriterien setzen:** Klare Prüfregeln definieren, um zu testen, ob das Ziel erreicht wurde.   
+4. **Testen & Anpassen:** Den Ablauf (Trockenlauf und Fremdtest) durchspielen und bei Unklarheiten verbessern.
+
+---
+
 ### EVA - Modell
 
 Eingabe – Verarbeitung – Ausgabe
 
-* Eingabe (E): Daten werden in ein System eingegebe
-* Verarbeitung (V): Das System verarbeitet die eingegebenen Daten nach bestimmten Regeln.
-* Ausgabe (A): Das Ergebnis der Verarbeitung wird an den Nutzer oder ein anderes Gerät weitergegeben.
+* **Eingabe (E):** Daten werden in ein System eingegebe
+* **Verarbeitung (V):** Das System verarbeitet die eingegebenen Daten nach bestimmten Regeln.
+* **Ausgabe (A):** Das Ergebnis der Verarbeitung wird an den Nutzer oder ein anderes Gerät weitergegeben.
+
+---
 
 ### Wichtige Begriffe
 
-* Problem: Beschreibt den aktuellen, fehlerhaften oder schwierigen Zustand, der verbessert werden soll.
-* Ziel: Beschreibt den gewünschten Endergebnis- oder Wunschzustand, der erreicht werden soll.
-* Lösung: Beschreibt die konkreten technischen Schritte oder Umsetzungen, wie dieses Ziel erreicht werden soll
+* **Problem:** Beschreibt den aktuellen, fehlerhaften oder schwierigen Zustand, der verbessert werden soll.
+* **Ziel:** Beschreibt den gewünschten Endergebnis- oder Wunschzustand, der erreicht werden soll.
+* **Lösung:** Beschreibt die konkreten technischen Schritte oder Umsetzungen, wie dieses Ziel erreicht werden soll
 
-* Problemstatement: Eine klare, lösungsneutrale Beschreibung des aktuellen Problems oder Fehlers.
-* Zielbild: Ein überprüfbares Ziel, das beschreibt, wie der gewünschte Zustand nach der Lösung aussehen soll.
-* Funktionale Anforderung: Eine konkrete Beschreibung dessen, was das Programm leisten oder können muss.
-* Akzeptanzkriterium: Eine klare Bedingung oder Testregel, mit der eine fremde Person eindeutig entscheiden kann (erfüllt oder nicht erfüllt), ob eine Anforderung erfolgreich umgesetzt wurde.
-  
+* **Problemstatement:** Eine klare, lösungsneutrale Beschreibung des aktuellen Problems oder Fehlers.
+* **Zielbild:** Ein überprüfbares Ziel, das beschreibt, wie der gewünschte Zustand nach der Lösung aussehen soll.
+* **Funktionale Anforderung:** Eine konkrete Beschreibung dessen, was das Programm leisten oder können muss.
+* **Akzeptanzkriterium:** Eine klare Bedingung oder Testregel, mit der eine fremde Person eindeutig entscheiden kann (erfüllt oder nicht erfüllt), ob eine Anforderung erfolgreich umgesetzt wurde.
+
+---
+
 ## Dokumente
 [Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
