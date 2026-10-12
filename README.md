@@ -23,28 +23,6 @@
 
 ---
 
-### Markdown
-
-| Syntax | Wirkung auf den Text |
-|---|---|
-| `# / ## / ###` | Erstellt eine Überschrift (Ebene 1, 2 oder 3). |
-| `**text**` | Macht den Text fett. |
-| `*text*` oder `_text_` | Macht den Text kursiv. |
-| `~~text~~` | Durschstreicht den Text. |
-| `---` | Fügt eine horizontale Trennlinie ein. |
-| `>` | Formatiert den Text als Zitat (Blockquote). |
-| `[Titel](URL)` | Erstellt einen klickbaren Link. |
-| `![Alt-Text](URL)` | Bindet ein Bild ein. |
-| `-` oder `*` | Erstellt einen Aufzählungspunkt (Liste). |
-| `1.` / `2.` | Erstellt eine nummerierte Liste. |
-| \`...` | Formatiert den Text als Inline-Code |
-| ` ```...``` ` | Erstellt einen mehrzeiligen Code-Block. |
-| `[ ] / [x]` | Erstellt eine interaktive Checkbox (Aufgabenliste). |
-| `<br>` | Erzwingt einen einfachen Zeilenumbruch. |
-| `\|` | Mit dem macht man die Tabelle |
-
----
-
 ### Begriffe Git und GitHub
 
 * **Git** - ein lokales, verteiltes Versionsverwaltungssystem (VCS). Es verfolgt Code-Änderungen offline, speichert die Projekthistorie in Commits und ermöglicht das Arbeiten mit Branches.
@@ -71,6 +49,31 @@
 * **Pull Request** - eine Anfrage, die Commits aus einem Arbeits-Branch nach einer Überprüfung im Team (Code Review) in einen anderen Branch (wie main) zusammenzuführen (mergen).
 * **Review** - die systematische Prüfung von Code-Änderungen durch andere Teammitglieder, um Fehler frühzeitig zu erkennen und eine hohe Code-Qualität sicherzustellen.
 * **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
+
+---
+## Learnsession 3
+
+> Markdown
+
+### Markdown: Zeichnen
+
+| Syntax | Wirkung auf den Text |
+|---|---|
+| `# / ## / ###` | Erstellt eine Überschrift (Ebene 1, 2 oder 3). |
+| `**text**` | Macht den Text fett. |
+| `*text*` oder `_text_` | Macht den Text kursiv. |
+| `~~text~~` | Durschstreicht den Text. |
+| `---` | Fügt eine horizontale Trennlinie ein. |
+| `>` | Formatiert den Text als Zitat (Blockquote). |
+| `[Titel](URL)` | Erstellt einen klickbaren Link. |
+| `![Alt-Text](URL)` | Bindet ein Bild ein. |
+| `-` oder `*` | Erstellt einen Aufzählungspunkt (Liste). |
+| `1.` / `2.` | Erstellt eine nummerierte Liste. |
+| \`...` | Formatiert den Text als Inline-Code |
+| ` ```...``` ` | Erstellt einen mehrzeiligen Code-Block. |
+| `[ ] / [x]` | Erstellt eine interaktive Checkbox (Aufgabenliste). |
+| `<br>` | Erzwingt einen einfachen Zeilenumbruch. |
+| `\|` | Mit dem macht man die Tabelle |
 
 ---
 ## Learnsession 4
@@ -120,3 +123,40 @@ Eingabe – Verarbeitung – Ausgabe
 * **Ausgabe (A):** Das Ergebnis der Verarbeitung wird an den Nutzer oder ein anderes Gerät weitergegeben.
 
 ---
+
+### Algorithmus EVA in lineare Programm C#
+
+```
+//Eingabe. Benutzer gibt Artikelname an.
+Console.WriteLine("Artikelname: "); 
+string artikelname = Console.ReadLine(); 
+
+//Eingabe. Benutzer gibt Einzelpreis an.
+Console.WriteLine("Einzelpreis: ");
+string einzelpreis = Console.ReadLine();
+
+//Verarbeitung. Programm waldet Variable 'string' in 'decimal' um.
+decimal einzelpreisdec = decimal.Parse(einzelpreis); 
+
+//Eingabe. Benutzer gibt Menge an.
+Console.WriteLine("Menge: "); 
+string menge = Console.ReadLine();
+
+//Verarbeitung. Programm waldet Variable 'string' in 'int' um.
+int mengeint = int.Parse(menge); 
+
+//Verarbeitung. Programm rechnet Gesamtpreis.
+decimal gesamtpreis = einzelpreisdec * mengeint; 
+
+//Ausgabe. Programm gibt Artikelname an. 
+Console.WriteLine("Artikelname: " + artikelname); 
+
+//Ausgabe. Programm gibt Einzelname an. 
+Console.WriteLine("Einzelpreis: " + einzelpreisdec + " CHF");
+
+//Ausgabe. Programm gibt Menge an. 
+Console.WriteLine("Menge: " + mengeint); 
+
+//Ausgabe. Programm gibt Gesamtpreis an. 
+Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF"); 
+```
