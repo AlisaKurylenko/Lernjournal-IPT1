@@ -1,13 +1,13 @@
 # Lernjournal-IPT1
-> **Git, GitHub, Markdown**
 
 ---
 
 ## Lernsession 1-3
 
----
+> **Git, GitHub, Markdown**
 
-## Befehle GitHub
+
+### Befehle GitHub
 
 | Befehl | Aufgabe |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Markdown
+### Markdown
 
 | Syntax | Wirkung auf den Text |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Begriffe Git und GitHub
+### Begriffe Git und GitHub
 
 * **Git** - ein lokales, verteiltes Versionsverwaltungssystem (VCS). Es verfolgt Code-Änderungen offline, speichert die Projekthistorie in Commits und ermöglicht das Arbeiten mit Branches.
 * **GitHub** - eine cloudbasierte Hosting-Plattform für Git-Repositories. Sie bietet eine Weboberfläche und Tools für die Teamarbeit (z. B. Pull Requests, Issues, CI/CD).
@@ -75,6 +75,19 @@
 * **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
 
 ---
-##Learnsession 4
+## Learnsession 4
+
+> Vom Problem zur Lösung
+
+### EVA - Modell
+
+Eingabe – Verarbeitung – Ausgabe
+
+* Eingabe (E): Daten werden in ein System eingegebe
+* Verarbeitung (V): Das System verarbeitet die eingegebenen Daten nach bestimmten Regeln.
+* Ausgabe (A): Das Ergebnis der Verarbeitung wird an den Nutzer oder ein anderes Gerät weitergegeben.
+
+### Wichtige Begriffe
+
 
 [Dokument: Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
