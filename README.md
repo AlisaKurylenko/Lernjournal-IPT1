@@ -26,6 +26,10 @@
 
 ---
 
+### Befehl `git log --oneline`
+
+![Screenshot](<Screenshot 2026-10-19 090153.png>)
+
 ## Lernsession 2
 
 > **Git & GitHub**
