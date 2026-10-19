@@ -222,5 +222,13 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 ```
 ---
 
+### Erwartung vor Ausführung
+
+| Test Nr. | Artikelname | Einzelpreis | Menge | Erwartete Ausgabe |
+|---|---|---|---|---|
+| 1 | Apfelschorle | CHF 2.50 | 3 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 3 <br> Gesamtpreis: CHF 750|
+| 2 | Sandwich | CHF 5.80 | 2 | Artikel: Sandwich <br> Einzelpreis: CHF 5.80 <br> Menge: 2 <br> Gesamtpreis: CHF 11.60|                                   
+---
+
 ### Programm C#
 [Programm_Mensa.cs](./Programm_Mensa.cs)
