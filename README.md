@@ -1,8 +1,8 @@
 # Lernjournal-IPT1
 
-## Lernsession 1-3
+## Lernsession 1-2
 
-> **Git, GitHub, Markdown**
+> **Git & GitHub**
 
 ---
 ### Befehle GitHub
@@ -160,3 +160,7 @@ Console.WriteLine("Menge: " + mengeint);
 //Ausgabe. Programm gibt Gesamtpreis an. 
 Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF"); 
 ```
+---
+
+### Programm C#
+[Programm_Mensa.cs](./Programm_Mensa.cs)
