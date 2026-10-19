@@ -26,10 +26,6 @@
 
 ---
 
-### Befehl `git log --oneline`
-
-![Screenshot](<Screenshot 2026-10-19 090153.png>)
-
 ## Lernsession 2
 
 > **Git & GitHub**
@@ -81,6 +77,13 @@
 * **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
 
 ---
+
+### Befehl `git log --oneline`
+
+![Screenshot](<Screenshot 2026-10-19 090153.png>)
+
+---
+
 ## Learnsession 3
 
 > Markdown
