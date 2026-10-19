@@ -1,6 +1,32 @@
 # Lernjournal-IPT1
 
-## Lernsession 1-2
+## Learnsession 1
+
+> Einstieg
+
+---
+
+### Wichtige Begriffe 
+
+**Objekt:** Ein Objekt ist ein konkretes Exemplar einer Klasse, das einen eigenen Zustand besitzt und bestimmte Aktionen ausführen kann.
+
+**Attribut:** Ein Attribut ist eine Eigenschaft oder ein Merkmal eines Objekts, das dessen Daten oder Zustand speichert.
+
+**Ereignis:** Ein Ereignis ist ein Signal oder Vorkommnis (z. B. ein Mausklick), das eine bestimmte Reaktion oder Aktion im Programm auslöst.
+
+**Verhalten:** Das Verhalten beschreibt die Aktionen oder Methoden, die ein Objekt als Reaktion auf Befehle oder Ereignisse ausführen kann.
+
+**Variable:** Eine Variable ist ein benannter Speicherbereich im Programm, der Werte aufnehmen und während der Laufzeit verändern kann.
+
+---
+
+### Aufgabe Scratch
+
+[Scratch Projekt](Scratch-Projekt.sb3)
+
+---
+
+## Lernsession 2
 
 > **Git & GitHub**
 
