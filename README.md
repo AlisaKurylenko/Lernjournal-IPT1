@@ -84,6 +84,33 @@
 
 ---
 
+### Wichtige Ärgenzung
+---
+## Git – jeden Tag
+
+| Befehl | Was passiert? |
+|--------|---------------|
+| `git status` | Wo stehe ich? Was ist geändert? |
+| `git add .` | Alle Änderungen vormerken (Staging) |
+| `git commit -m "Was und warum"` | Version speichern |
+| `git push` | Auf GitHub hochladen |
+| `git pull` | Neueste Version von GitHub holen |
+| `git log --oneline` | Verlauf anzeigen |
+
+## Git – einmalig oder ab und zu
+
+| Befehl | Was passiert? |
+|--------|---------------|
+| `git clone <url>` | Repo von GitHub auf den PC holen |
+| `git switch -c <name>` | Neuen Branch erstellen und wechseln |
+
+## Der Weg einer Änderung
+
+```
+Arbeitsverzeichnis --add--> Staging --commit--> Repository --push--> GitHub
+```
+
+
 ## Learnsession 3
 
 > Markdown
