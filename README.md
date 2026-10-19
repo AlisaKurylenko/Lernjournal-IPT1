@@ -226,7 +226,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 
 | Test Nr. | Artikelname | Einzelpreis | Menge | Erwartete Ausgabe |
 |---|---|---|---|---|
-| 1 | Apfelsaft | CHF 2.50 | 3 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 3 <br> Gesamtpreis: CHF 750|
+| 1 | Apfelsaft | CHF 2.50 | 3 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 3 <br> Gesamtpreis: CHF 7.50|
 | 2 | Sandwich | CHF 5.80 | 2 | Artikel: Sandwich <br> Einzelpreis: CHF 5.80 <br> Menge: 2 <br> Gesamtpreis: CHF 11.60|                                   
 ---
 
