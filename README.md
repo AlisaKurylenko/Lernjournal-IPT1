@@ -76,6 +76,8 @@
 * **Review** - die systematische Prüfung von Code-Änderungen durch andere Teammitglieder, um Fehler frühzeitig zu erkennen und eine hohe Code-Qualität sicherzustellen.
 * **Merge** - das Zusammenführen von Code-Änderungen aus einem Branch in einen anderen, um zwei Entwicklungsstände zu vereinen.
 
+
+
 ---
 
 ### Befehl `git log --oneline`
@@ -83,33 +85,6 @@
 ![Screenshot](<Screenshot 2026-10-19 090153.png>)
 
 ---
-
-### Wichtige Ärgenzung
----
-## Git – jeden Tag
-
-| Befehl | Was passiert? |
-|--------|---------------|
-| `git status` | Wo stehe ich? Was ist geändert? |
-| `git add .` | Alle Änderungen vormerken (Staging) |
-| `git commit -m "Was und warum"` | Version speichern |
-| `git push` | Auf GitHub hochladen |
-| `git pull` | Neueste Version von GitHub holen |
-| `git log --oneline` | Verlauf anzeigen |
-
-## Git – einmalig oder ab und zu
-
-| Befehl | Was passiert? |
-|--------|---------------|
-| `git clone <url>` | Repo von GitHub auf den PC holen |
-| `git switch -c <name>` | Neuen Branch erstellen und wechseln |
-
-## Der Weg einer Änderung
-
-```
-Arbeitsverzeichnis --add--> Staging --commit--> Repository --push--> GitHub
-```
-
 
 ## Learnsession 3
 
@@ -156,7 +131,6 @@ Arbeitsverzeichnis --add--> Staging --commit--> Repository --push--> GitHub
 * **Problem:** Beschreibt den aktuellen, fehlerhaften oder schwierigen Zustand, der verbessert werden soll.
 * **Ziel:** Beschreibt den gewünschten Endergebnis- oder Wunschzustand, der erreicht werden soll.
 * **Lösung:** Beschreibt die konkreten technischen Schritte oder Umsetzungen, wie dieses Ziel erreicht werden soll
-
 * **Problemstatement:** Eine klare, lösungsneutrale Beschreibung des aktuellen Problems oder Fehlers.
 * **Zielbild:** Ein überprüfbares Ziel, das beschreibt, wie der gewünschte Zustand nach der Lösung aussehen soll.
 * **Funktionale Anforderung:** Eine konkrete Beschreibung dessen, was das Programm leisten oder können muss.
@@ -237,6 +211,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 | 2 | Sandwich CHF 5.80; Menge 3| Artikel: Sandwich <br> Einzelpreis: CHF 5.80 <br> Menge: 2 <br> Gesamtpreis: CHF 11.60 | Artikel: Sandwich <br> Einzelpreis: CHF 5.80 <br> Menge: 2 <br> Gesamtpreis: CHF 11.60 | ☐ Ja ☐ Nein |
 | 3 |  |  |  | ☐ Ja ☐ Nein |
 ---
+
 
 ### Programm C#
 [Programm_Mensa.cs](./Programm_Mensa.cs)
