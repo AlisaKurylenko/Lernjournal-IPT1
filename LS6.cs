@@ -11,7 +11,7 @@ string menge = Console.ReadLine();
 
 int mengeint = int.Parse(menge); 
 
-if (mengeint < 0)
+if (mengeint <= 0)
 {
     Console.WriteLine("Ungültige Menge");
     return;
@@ -21,7 +21,7 @@ Console.WriteLine("Artikelname: " + artikelname);
 Console.WriteLine("Einzelpreis: " + einzelpreisdec + " CHF");
 Console.WriteLine("Menge: " + mengeint); 
 decimal gesamtpreis = 0;
-decimal rabatt = 0;
+decimal rabatt;
 
 if (mengeint == 3 || mengeint == 4)
 {
@@ -31,6 +31,10 @@ if (mengeint == 3 || mengeint == 4)
 else if (mengeint > 4)
 {
     rabatt = 20;
+}
+else
+{
+   rabatt = 0; 
 }
 decimal zwischenpreis = einzelpreisdec * mengeint;
 decimal rabattbetrag = zwischenpreis * rabatt/100;
