@@ -235,6 +235,6 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 [Erweiterte Programm Mensa](./LS6.cs)
 | Testfall | Eingaben | Soll-Ergebnis (vorher) | Ist-Ergebnis (nachher) | Erfüllt? |
 |---|---|---|---|---|
-| 1 | Apfelsaft 2.50 CHF; Menge 0 | Ungültige Menge | Ungültige Menge | [x] Ja [] Nein |
-| 2 | Apfelsaft 2.50 CHF; Menge 2 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 0 % <br> Gesamtpreis: 5 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 10 % <br> Gesamtpreis: 5 CHF | [x] Ja [] Nein |
-| 3 | Apfelsaft 2.50 CHF; Menge 5 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 11.25 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 10.00 CHF | [x] Ja [] Nein |
+| 1 | Apfelsaft 2.50 CHF; Menge 0 | Ungültige Menge | Ungültige Menge | [] Ja [] Nein |
+| 2 | Apfelsaft 2.50 CHF; Menge 2 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 0 % <br> Gesamtpreis: 5 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 10 % <br> Gesamtpreis: 5 CHF | [] Ja [] Nein |
+| 3 | Apfelsaft 2.50 CHF; Menge 5 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 11.25 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 10.00 CHF | [] Ja [] Nein |
