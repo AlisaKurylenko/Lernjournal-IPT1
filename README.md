@@ -231,8 +231,12 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 ---
 
 ## Learningsession 6
+---
+### PAP
 ![Alt-Text](PAP_Mensa_Programm.png) <br>
 [Erweiterte Programm Mensa](./LS6.cs)
+---
+### Testfälle
 | Testfall | Eingaben | Soll-Ergebnis (vorher) | Ist-Ergebnis (nachher) | Erfüllt? |
 |---|---|---|---|---|
 | 1 | Apfelsaft 2.50 CHF; Menge 0 | Ungültige Menge | Ungültige Menge | Ja |
