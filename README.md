@@ -231,7 +231,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 ---
 
 ## Learningsession 6
-[PAP Programm Mensa](./PAP_Mensa.drawio.html) <br>
+![Alt-Text](PAP_Mensa_Programm.png) <br>
 [Erweiterte Programm Mensa](./LS6.cs)
 | Testfall | Eingaben | Soll-Ergebnis (vorher) | Ist-Ergebnis (nachher) | Erfüllt? |
 |---|---|---|---|---|
