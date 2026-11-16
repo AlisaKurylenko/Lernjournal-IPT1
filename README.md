@@ -234,6 +234,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 ---
 ### PAP
 ![Alt-Text](PAP_Mensa_Programm.png) <br>
+---
 [Erweiterte Programm Mensa](./LS6.cs)
 ---
 ### Testfälle
