@@ -256,19 +256,19 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 
 ---
 
-[Arbeitsblatt](LS7/LS7_Arbeitsblatt_Schleifen_Einstieg.pdf)
-
-[Aufgaben](./LS7)
-
-
 `23.11.2026:`
 Heute habe ich meine Schleifen Kenntnisse im Praxis benutzt. 
 
-#Wichtigste Schleifen
+# Wichtigste Schleifen
 ```
 for
 while
 do while
 
 ```
+
+
+[Arbeitsblatt](LS7/LS7_Arbeitsblatt_Schleifen_Einstieg.pdf)
+
+[Aufgaben](./LS7)
 
