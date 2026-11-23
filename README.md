@@ -256,7 +256,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 
 ---
 
-[Arbeitsblatt](LS7/LS7_Arbeitsblatt_Schleifen_Einstieg)
+[Arbeitsblatt](LS7/LS7_Arbeitsblatt_Schleifen_Einstieg.pdf)
 
 [Aufgaben](./LS7)
 
