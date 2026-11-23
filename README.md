@@ -259,7 +259,8 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 `23.11.2026:`
 Heute habe ich meine Schleifen Kenntnisse im Praxis benutzt. 
 
-# Wichtigste Schleifen
+### Wichtigste Schleifen
+
 ```
 for
 while
