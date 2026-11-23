@@ -22,7 +22,7 @@
 
 ### Aufgabe Scratch
 
-[Scratch Projekt](Scratch-Projekt.sb3)
+[Scratch Projekt](LS1/Scratch-Projekt.sb3)
 
 ---
 
@@ -158,7 +158,7 @@ Arbeitsverzeichnis --add--> Staging --commit--> Repository --push--> GitHub
 ---
 
 ### Dokumente
-[Praxisfall_Mensa](./LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
+[Praxisfall_Mensa](LS4/LS4_Arbeitsblatt_Praxisfall_Mensa.pdf)
 
 ---
 ## Learningsession 5
@@ -226,7 +226,7 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 
 
 ### Programm C#
-[Programm Mensa](./Programm_Mensa.cs)
+[Programm Mensa](LS5/Programm_Mensa.cs)
 
 ---
 
@@ -234,11 +234,11 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 ---
 ### PAP
 
-![Alt-Text](PAP_Mensa_Programm.png) <br>
+![Alt-Text](LS6/PAP_Mensa_Programm.png) <br>
 
 ---
 
-[Erweiterte Programm Mensa](./LS6.cs)
+[Erweiterte Programm Mensa](LS6/LS6.cs)
 
 ---
 
