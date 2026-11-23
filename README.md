@@ -249,3 +249,11 @@ Console.WriteLine("Gesamtpreis: " + gesamtpreis + " CHF");
 | 2 | Apfelsaft 2.50 CHF; Menge 2 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 0 % <br> Gesamtpreis: 6.75 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 2 <br> Rabatt: 0 % <br> Gesamtpreis: 6.75 CHF | Ja |
 | 3 | Apfelsaft 2.50 CHF; Menge 3 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 3 <br> Rabatt: 10 % <br> Gesamtpreis: 11.25 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 10 % <br> Gesamtpreis: 10.00 CHF | Ja |
 | 4 | Apfelsaft 2.50 CHF; Menge 5 | Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 11.25 CHF | Artikel: Artikel: Apfelschorle <br> Einzelpreis: CHF 2.50 <br> Menge: 5 <br> Rabatt: 20 % <br> Gesamtpreis: 10.00 CHF | Ja |
+
+## Learningsession 7
+
+> Schleifen
+
+---
+
+
